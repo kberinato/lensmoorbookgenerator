@@ -1,0 +1,11 @@
+<div id="header" class="header">
+Jeffrey Blake's Library<br/>
+<font size="-5">A collection of <a href="http://lensmoor.org">Lensmoor</a> resources</font><br/>
+</div>
+<hr/>
+<div id="navigation" class="navigation">
+  <div class="navigation_item"><a href="#">Jeffrey's Teachables</a></div>
+  <div class="navigation_item"><a href="#">Book Helper</a></div>
+  <div class="navigation_item"><a href="#">The Queen of the Damned</a></div>
+  <div class="navigation_item"><a href="#">tintin++ scripts</a></div>
+</div>

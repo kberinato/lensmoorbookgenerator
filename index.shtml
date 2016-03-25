@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Jeffrey's Library</title>
+<link rel="stylesheet" href="basic.css">
+</head>
+<body>
+<!--#include file="layout.shtml" -->
+<div id="main" class="main">
+Ah, greetings. Welcome to my library. Please feel free to stay for as long as you wish and read to your heart's content. Do be careful... some of these books are very old indeed, and should I discover that any of them have been damaged, I... well, suffice it to say, very <i>bad</i> things will happen. Now that we've gotten that pesky bit of information out of the way, please take a seat, help yourself to a cup of tea and enjoy.
+<br/>
+<br/>
+(OOC: This site is still heavily under construction. None of the links work, I have no content yet, but hopefully within the week there will be some stuff here!)<br/>
+</div>
+</body>
+</html>

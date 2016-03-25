@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Jeffrey's Library</title>
+<link rel="stylesheet" href="basic.css">
+</head>
+<body>
+<!--#include file="layout.shtml" -->
+<div id="main" class="main">
+<p>The book helper is under construction. <a href="notes/bookhelper.txt">these</a> are the plans for how it will generally work.</p>
+<form action="bookhelper.cgi" method="POST">
+<textarea name="book" cols="100" rows="50"></textarea><br/>
+<input type="submit" value="create book">
+</form>
+</div>
+</body>
+</html>
